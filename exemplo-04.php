@@ -26,3 +26,5 @@ echo "<br >";
 // comparação de diferença
 var_dump($a != $b);
 echo "<br >";
+
+?>
